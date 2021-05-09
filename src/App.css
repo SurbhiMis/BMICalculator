@@ -35,6 +35,14 @@ table{
   color: white;
   background-color: #003a00;
   margin-bottom: 10px;
+  margin-right:10px;
+  border:none;
+}
+
+.btn:hover{
+  color: white;
+  background-color: #017001;
+  cursor: pointer;
 }
 
 
